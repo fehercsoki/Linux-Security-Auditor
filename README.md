@@ -34,7 +34,7 @@ English
 
 Clone this repository to your local machine:
 
-git clone https://github.com/yourusername/linux-security-auditor.git
+git clone https://github.com/fehercsoki/linux-security-auditor.git
 
 cd linux-security-auditor/install/
 
@@ -51,7 +51,7 @@ After the audit, the results will be saved to specific files and an HTML report 
 Hungarian
 Klónozd a repository-t a helyi gépedre:
 
-git clone https://github.com/yourusername/linux-security-auditor.git
+git clone https://github.com/fehercsoki/linux-security-auditor.git
 
 cd linux-security-auditor/install/
 Futtasd az installációs szkriptet sudo jogosultsággal:
